@@ -1,6 +1,7 @@
 # Maxima_NormalDistribution
 
-![alt text](https://drive.google.com/file/d/1-DtWvQgJH3E_aSmyApjWWZ75sJnZCf7a/view?usp=sharing)
+<img width="423" alt="sample" src="https://user-images.githubusercontent.com/61354524/147477713-caa6b426-e673-4da6-a9ce-f23a0ee3dd8a.PNG">
+
 
 # INTRODUCTION
 
@@ -34,7 +35,7 @@ MaxValue = 0.3989422804014327 at 0.5 guessed By Node : 4\
 MaxValue = 0.3989422804014327 at 0.5 guessed By Node : 5
 
 
- -------------------OUTPUT for file-------------------
+ -------------------OUTPUT for file-------------------\
 Guess of 1 = [-2.0, 1.0, 0.5]\
 Guess of 2 = [-0.3, 1.0, 0.5]\
 Guess of 3 = [-0.7, 0.6, 0.5]\
@@ -64,7 +65,7 @@ MaxValue = 0.3989422804014327 at 0.5 guessed By Node : 3\
 MaxValue = 0.3989422804014327 at 0.5 guessed By Node : 6
 
 
- -------------------OUTPUT for file-------------------
+ -------------------OUTPUT for file-------------------\
 Guess of 1 = [-2.6, 0.7]\
 Guess of 2 = [1.0, 0.8]\
 Guess of 3 = [3.4, 0.5]\
