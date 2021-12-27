@@ -1,5 +1,7 @@
 # Maxima_NormalDistribution
 
+![alt text](https://drive.google.com/file/d/1-DtWvQgJH3E_aSmyApjWWZ75sJnZCf7a/view?usp=sharing)
+
 # INTRODUCTION
 
 It is a self learning algorithm which tells the maxima i.e Y by guessing value of X of a normal distribution graph. 
